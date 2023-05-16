@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swati07sharma" alt="swati07sharma" /></a> </p>
 
-- 🌱 I’m interested in ML and Algorithms  **
+- 🌱 I’m interested in ML and Algorithms  
 
-- 🧠 I’m currently learning **Machine Learning and Deep Learning **
+- 🧠 I’m currently learning **Machine Learning and Deep Learning 
 
 - 📫 How to reach me **swati21568@iiitd.ac.in**
 
