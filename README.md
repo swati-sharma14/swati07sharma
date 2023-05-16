@@ -5,11 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swati07sharma" alt="swati07sharma" /></a> </p>
 
-- 🌱 I’m interested in ML and Algorithms  
+- https://github.com/swati07sharma/swati07sharma/tree/main
+
+- 🌱 I’m interested in ML and Algorithms. I'm constantly expanding my skillset by learning emerging technologies.
 
 - 🧠 I’m currently learning Machine Learning and Deep Learning 
 
-- 📫 How to reach me **swati21568@iiitd.ac.in**
+- 📫 How to reach me 
+        <p>  Mail : **swati21568@iiitd.ac.in** </p>
+  <p>     LinkedIn:   https://www.linkedin.com/in/swati-sharma-55ab5323a/   </p>
+  <p>    Instagram:   https://www.instagram.com/swati_sharma140_/  </p>
 
 - 📄 Know about my experiences [https://tinyurl.com/resume-swati](https://tinyurl.com/resume-swati)
 
