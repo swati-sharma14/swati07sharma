@@ -7,7 +7,7 @@
 
 - 🌱 I’m interested in ML and Algorithms  
 
-- 🧠 I’m currently learning **Machine Learning and Deep Learning 
+- 🧠 I’m currently learning Machine Learning and Deep Learning 
 
 - 📫 How to reach me **swati21568@iiitd.ac.in**
 
