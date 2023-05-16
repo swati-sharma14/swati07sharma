@@ -7,7 +7,7 @@
 
 - https://github.com/swati07sharma/swati07sharma/tree/main
 
-- 🌱 I’m interested in ML and Algorithms. I'm constantly expanding my skillset by learning emerging technologies.
+- 🌱 I’m interested in Operating Systems, Open Source and Algorithms. I'm constantly expanding my skillset by learning emerging technologies.
 
 - 🧠 I’m currently learning Machine Learning and Deep Learning 
 
