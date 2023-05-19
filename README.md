@@ -35,6 +35,7 @@
 
 ![More Stats](https://github-readme-streak-stats.herokuapp.com?user=swati07sharma&theme=vue-dark)
 
+[![](https://visitcount.itsvg.in/api?id=swati07sharma&label=Profile%20Views&color=0&icon=4&pretty=false)](https://visitcount.itsvg.in)
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swati07sharma&show_icons=true&locale=en&layout=compact" alt="swati07sharma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swati07sharma&show_icons=true&locale=en" alt="swati07sharma" /></p>
