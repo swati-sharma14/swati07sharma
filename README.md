@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Swati Sharma <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/> </h1>
+<h1 align="center">Hi <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Swati Sharma </h1>
 <h3 align="center">CSAI Sophomore at IIIT-Delhi and a passionate open-source advocate seeking new opportunities</h3>
 
 <img align="center" alt="Coding" width="350" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
